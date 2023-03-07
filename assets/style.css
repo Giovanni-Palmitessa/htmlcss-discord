@@ -95,7 +95,7 @@ h1{
 }
 
 .img1{
-    height: 300px;
+    height: 320px;
     padding-right: 50px;
 }
 
@@ -121,6 +121,8 @@ h2{
 
 .bkg-grey{
     background-color: lightgrey;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
 }
 
 .section-2{
@@ -130,8 +132,33 @@ h2{
     padding-bottom: 6rem;
 }
 
-.img1{
+.img2{
     height: 350px;
     padding-left: 50px;
 }
+
+.section-4{
+    text-align: center;
+}
+
+.big{
+    padding-bottom: 4rem;
+}
+
+.stars{
+    max-width: 650px;   
+    background-image: url(../img/stars.svg);
+    background-size: cover;
+    margin-inline: auto;
+    padding-bottom: 2rem;
+}
+
+.dl-mac{
+    padding: 10px;
+    color: white;
+    background-color: cornflowerblue;
+    border: 1px solid cornflowerblue;
+    border-radius: 30%;
+}
+
 
