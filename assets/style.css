@@ -49,3 +49,49 @@ a{
     margin-right: 10px;
 }
 
+.jumbo{
+    background-image: url(../img/jumbo.png);
+    background-size: cover;
+    padding-bottom: 6rem;
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 10rem;
+    padding-bottom: 2rem;
+    font-size: 40px;
+}
+
+.main-p{
+    text-align: center;
+    color: white;
+    max-width: 850px;
+    margin-inline: auto;
+    font-size: 20px;
+    padding-bottom: 1rem;
+}
+
+.scarica{
+    padding-top: 2rem;
+}
+
+.mac{
+    padding: 10px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 30%;
+    margin-left: 600px;
+    color: black;
+}
+
+.browser{
+    padding: 10px;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 30%;
+    color: white;
+}
+
+
