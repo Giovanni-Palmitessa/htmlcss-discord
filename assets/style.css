@@ -41,7 +41,7 @@ a{
     padding: 8px;
     color: black;
     border: 1px solid white;
-    border-radius: 40%;
+    border-radius: 13px;
     background-color: white;
 }
 
@@ -82,7 +82,7 @@ h1{
     padding: 10px;
     background-color: white;
     border: 1px solid white;
-    border-radius: 30%;
+    border-radius: 13px;
     margin-left: 600px;
     color: black;
 }
@@ -91,7 +91,7 @@ h1{
     padding: 10px;
     background-color: black;
     border: 1px solid black;
-    border-radius: 30%;
+    border-radius: 13px;
     color: white;
 }
 
@@ -159,7 +159,7 @@ h2{
     color: white;
     background-color: cornflowerblue;
     border: 1px solid cornflowerblue;
-    border-radius: 30%;
+    border-radius: 13px;
 }
 
 footer{
@@ -212,7 +212,7 @@ li{
     background-color: cornflowerblue;
     padding: 12px;
     border: 1px solid cornflowerblue;
-    border-radius: 30%;
+    border-radius: 13px;
     color: white;
 }
 
