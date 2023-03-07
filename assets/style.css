@@ -76,6 +76,8 @@ h1{
 
 .scarica{
     padding-top: 2rem;
+    display: flex;
+    justify-content: center;
 }
 
 .mac{
@@ -83,8 +85,8 @@ h1{
     background-color: white;
     border: 1px solid white;
     border-radius: 13px;
-    margin-left: 600px;
     color: black;
+    margin-right: 15px;
 }
 
 .browser{
