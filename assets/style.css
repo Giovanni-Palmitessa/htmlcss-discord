@@ -111,12 +111,27 @@ h1{
 }
 
 h2{
-    font-size: 35px;
+    font-size: 32px;
     padding-bottom: 1rem;   
 }
 
 .text-p{
-    font-size: 13px;
+    font-size: 15px;
 }
 
+.bkg-grey{
+    background-color: lightgrey;
+}
+
+.section-2{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.img1{
+    height: 350px;
+    padding-left: 50px;
+}
 
