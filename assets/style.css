@@ -94,4 +94,29 @@ h1{
     color: white;
 }
 
+.img1{
+    height: 300px;
+    padding-right: 50px;
+}
+
+.section-1{
+    display: flex;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.text-1{
+    flex: 0 0 300px;
+    padding-top: 30px;
+}
+
+h2{
+    font-size: 35px;
+    padding-bottom: 1rem;   
+}
+
+.text-p{
+    font-size: 13px;
+}
+
 
