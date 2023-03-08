@@ -25,6 +25,7 @@ ul{
     display: flex;
     justify-content: space-between;
     color: white;
+    white-space: nowrap;
 }
 
 a{
@@ -78,6 +79,7 @@ h1{
     padding-top: 2rem;
     display: flex;
     justify-content: center;
+    white-space: nowrap;
 }
 
 .mac{
@@ -172,6 +174,7 @@ h2{
     background-color: cornflowerblue;
     border: 1px solid cornflowerblue;
     border-radius: 13px;
+    white-space: nowrap;
 }
 
 footer{
