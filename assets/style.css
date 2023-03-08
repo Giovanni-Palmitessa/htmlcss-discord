@@ -122,6 +122,16 @@ h2{
     font-size: 15px;
 }
 
+.wave-gray{
+    width: 100%;
+    display: block;
+}
+
+.wave-white{
+    width: 100%;
+    
+}
+
 .bkg-grey{
     background-color: lightgrey;
     padding-top: 6rem;
